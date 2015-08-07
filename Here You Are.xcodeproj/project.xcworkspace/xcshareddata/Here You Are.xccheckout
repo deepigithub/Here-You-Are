@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>368B5506-CD1B-4541-8894-7FEBF24D8041</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F5BCAFD5C205FA89B46E9883951410D8E12978F3</key>
+		<string>https://github.com/deepigithub/Here-You-Are.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Here You Are.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F5BCAFD5C205FA89B46E9883951410D8E12978F3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/deepigithub/Here-You-Are.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F5BCAFD5C205FA89B46E9883951410D8E12978F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F5BCAFD5C205FA89B46E9883951410D8E12978F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Here%20You%20Are</string>
+		</dict>
+	</array>
+</dict>
+</plist>
